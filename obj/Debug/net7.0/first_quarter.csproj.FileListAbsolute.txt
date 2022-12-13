@@ -1,0 +1,15 @@
+F:\IT\C#\first_quarter\bin\Debug\net7.0\first_quarter.exe
+F:\IT\C#\first_quarter\bin\Debug\net7.0\first_quarter.deps.json
+F:\IT\C#\first_quarter\bin\Debug\net7.0\first_quarter.runtimeconfig.json
+F:\IT\C#\first_quarter\bin\Debug\net7.0\first_quarter.dll
+F:\IT\C#\first_quarter\bin\Debug\net7.0\first_quarter.pdb
+F:\IT\C#\first_quarter\obj\Debug\net7.0\first_quarter.csproj.AssemblyReference.cache
+F:\IT\C#\first_quarter\obj\Debug\net7.0\first_quarter.GeneratedMSBuildEditorConfig.editorconfig
+F:\IT\C#\first_quarter\obj\Debug\net7.0\first_quarter.AssemblyInfoInputs.cache
+F:\IT\C#\first_quarter\obj\Debug\net7.0\first_quarter.AssemblyInfo.cs
+F:\IT\C#\first_quarter\obj\Debug\net7.0\first_quarter.csproj.CoreCompileInputs.cache
+F:\IT\C#\first_quarter\obj\Debug\net7.0\first_quarter.dll
+F:\IT\C#\first_quarter\obj\Debug\net7.0\refint\first_quarter.dll
+F:\IT\C#\first_quarter\obj\Debug\net7.0\first_quarter.pdb
+F:\IT\C#\first_quarter\obj\Debug\net7.0\first_quarter.genruntimeconfig.cache
+F:\IT\C#\first_quarter\obj\Debug\net7.0\ref\first_quarter.dll
